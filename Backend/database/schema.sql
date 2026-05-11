@@ -1,4 +1,3 @@
--- Vehicle Fleet Management Service — Database Schema
 -- Run this against your MySQL server to create all tables
 
 CREATE DATABASE IF NOT EXISTS fleet_management;

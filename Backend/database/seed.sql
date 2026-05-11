@@ -1,6 +1,4 @@
--- Vehicle Fleet Management Service — Seed Data
--- Passwords are bcrypt hashes of the plaintext shown in comments
--- Default password for all users: password123 (except admin: admin123)
+
 
 USE fleet_management;
 
