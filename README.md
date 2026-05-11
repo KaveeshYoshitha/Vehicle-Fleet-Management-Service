@@ -9,15 +9,23 @@
 
 1. Create the database and tables:
 
+Go to
+
 ```bash
-mysql -u root -p < Backend/database/schema.sql
+    Backend/database/seed.sql
 ```
+
+and run that file.
 
 2. Seed dummy data and login users:
 
+Go to
+
 ```bash
-mysql -u root -p < Backend/database/seed.sql
+    Backend/database/seed.sql
 ```
+
+and run that file.
 
 ## Backend setup
 
